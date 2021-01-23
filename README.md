@@ -1,1 +1,1 @@
-Angular testing vamos viendo lo cambio y que ?
+Angular testing vamos viendo lo vemos ahora  ?
