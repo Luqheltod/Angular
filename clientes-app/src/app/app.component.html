@@ -1,13 +1,16 @@
 <app-header></app-header>
-<div class="container">
+<div id="page-container">
 <h1>{{title}}</h1>
 <ul>
 <li class="fa fa-cube">{{curso}} </li> <br>
 <li class="fa fa-cube">Profesor: {{profesor}}</li><br>
 <li class="fa fa-cube">Alumno: {{alumno}} </li><br>
 </ul>
+
+<div id="content-wrap"> 
 <router-outlet></router-outlet>
 </div>
-<div> 
+
+
 <app-footer></app-footer>
 </div>
